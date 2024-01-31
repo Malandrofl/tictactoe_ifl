@@ -3,6 +3,10 @@ import random
 #variables for computer maximization in minimax
 human = -1
 comp = +1
+
+def feature1():
+    return 1
+
 def create_board():
     '''
     Creates the board for playing tic tac toe as a list of 9 elements,
