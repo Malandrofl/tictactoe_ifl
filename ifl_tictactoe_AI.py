@@ -6,7 +6,8 @@ comp = +1
 
 def feature1():
     return 1
-
+def feature2():
+    return 2
 def create_board():
     '''
     Creates the board for playing tic tac toe as a list of 9 elements,
